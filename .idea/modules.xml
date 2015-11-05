@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Support7Demos/Support7Demos.iml" filepath="$PROJECT_DIR$/Support7Demos/Support7Demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-support-v7-appcompat/android-support-v7-appcompat.iml" filepath="$PROJECT_DIR$/android-support-v7-appcompat/android-support-v7-appcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-support-v7-cardview/android-support-v7-cardview.iml" filepath="$PROJECT_DIR$/android-support-v7-cardview/android-support-v7-cardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-support-v7-demo.iml" filepath="$PROJECT_DIR$/android-support-v7-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-support-v7-gridlayout/android-support-v7-gridlayout.iml" filepath="$PROJECT_DIR$/android-support-v7-gridlayout/android-support-v7-gridlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-support-v7-mediarouter/android-support-v7-mediarouter.iml" filepath="$PROJECT_DIR$/android-support-v7-mediarouter/android-support-v7-mediarouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-support-v7-palette/android-support-v7-palette.iml" filepath="$PROJECT_DIR$/android-support-v7-palette/android-support-v7-palette.iml" />
+    </modules>
+  </component>
+</project>
