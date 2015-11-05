@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme" parent="AppTheme.Base"/>
+
+    <!-- NoActionBar as Toolbar is being used -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.NoActionBar"/>
+
+    <style name="AppToolbarStyle" parent="ThemeOverlay.AppCompat.ActionBar"/>
+
+</resources>
