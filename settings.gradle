@@ -1,3 +1,5 @@
+include ':android-percent-support-lib-sample'
+include ':android-data-binding-sample'
 include ':android-support-v7-gridlayout'
 include ':android-support-v7-appcompat'
 include ':android-support-v7-mediarouter'
